@@ -6,7 +6,8 @@ Built off Nexogone's Xillia 1 dump and Meebo + Ethanol's Xillia 2 PS3 dump.
 
 (TLTool analyze-names output, I'm still looking into collisions and false positives)
 
-```   Type |  Count |  Named | Percentage
+```
+Type |  Count |  Named | Percentage
 --------------------------------------
  BTLCOL |    353 |    352 |  99.72%
   BTLDB |     12 |     12 | 100.00%
@@ -69,4 +70,5 @@ TO11RAW |      3 |      3 | 100.00%
 TSDXMLB |    139 |    139 | 100.00%
 WGTDEFB |    407 |    406 |  99.75%
 --------------------------------------
-  Total | 229920 | 228477 |  99.37%```
+  Total | 229920 | 228477 |  99.37%
+```
