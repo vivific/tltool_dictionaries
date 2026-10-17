@@ -1,5 +1,5 @@
 # tltool_dictionaries
-Dictionary files for use with DaZombieKiller's TalesOfTools
+Dictionary files for use with DaZombieKiller's [TalesOfTools](https://github.com/DaZombieKiller/TalesOfTools/).
 
 ## Xillia 2 (PS3)
 Built off Nexogone's September 14th 2026 ``names_db_tox_ps3.txt`` and Meebo + Ethanol's June 5th 2024 ``x2_filelist.log`` dictionaries.
