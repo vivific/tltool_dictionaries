@@ -11,6 +11,8 @@ Built off Nexogone's September 14th 2026 ``names_db_tox_ps3.txt`` and Meebo + Et
 ## Zestiria (PC)
 Built off Nexogone's October 24th 2025 ``names_db_toz_pc.txt`` dictionary.
 
+**Note**: ``CHR_CEL_KNI_010`` and related files in PK1 aren't resolving under those names.
+
 (TLTool analyze-names output, I'm still looking into collisions and false positives)
 * PK0 (97.37%)
 * PK1 (99.48%)
